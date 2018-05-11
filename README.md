@@ -5,3 +5,10 @@ RLE로 압축된 BMP 파일이나, BMP 파일을 읽어들여서 영상처리 �
 
 사용언어 : C++
 사용 툴 : MFC
+
+##실행 화면
+
+![image](https://user-images.githubusercontent.com/25413011/39910080-83331c72-5530-11e8-892c-b553b99491ae.png)
+
+![image](https://user-images.githubusercontent.com/25413011/39910087-86708ea6-5530-11e8-8e7f-cbaca7e69ba2.png)
+
