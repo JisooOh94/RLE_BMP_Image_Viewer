@@ -1,3 +1,4 @@
+똘순이
 # RLE_BMP_Image_Viewer
 RLE로 압축된 BMP 파일 뷰어
 
